@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+camera=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/camera-0.10.0/
+camera_android=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/camera_android-0.10.0/
+camera_avfoundation=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/camera_avfoundation-0.9.8+2/
+camera_web=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/camera_web-0.3.0/
+flutter_plugin_android_lifecycle=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+google_mlkit_barcode_scanning=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_barcode_scanning-0.3.0/
+google_mlkit_commons=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_commons-0.2.0/
+google_mlkit_digital_ink_recognition=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_digital_ink_recognition-0.3.0/
+google_mlkit_entity_extraction=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_entity_extraction-0.3.0/
+google_mlkit_face_detection=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_face_detection-0.3.0/
+google_mlkit_image_labeling=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_image_labeling-0.3.0/
+google_mlkit_language_id=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_language_id-0.3.0/
+google_mlkit_object_detection=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_object_detection-0.3.0/
+google_mlkit_pose_detection=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_pose_detection-0.3.0/
+google_mlkit_selfie_segmentation=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_selfie_segmentation-0.0.1/
+google_mlkit_smart_reply=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_smart_reply-0.3.0/
+google_mlkit_text_recognition=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_text_recognition-0.3.0/
+google_mlkit_translation=/Users/diefferson/.pub-cache/hosted/pub.dartlang.org/google_mlkit_translation-0.3.0/

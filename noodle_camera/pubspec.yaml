@@ -1,7 +1,7 @@
 name: noodle_camera
 description: Complete Widget to use camera to take pictures or Scan codes.
 version: 1.0.0
-homepage: https://github.com/Noodle-Cx/noodle_camera
+homepage: https://github.com/Noodle-Cx/flutter_packages/noodle_camera
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
