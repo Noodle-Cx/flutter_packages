@@ -1,0 +1,4 @@
+enum CameraMode {
+  picture,
+  scan,
+}

@@ -1,0 +1,20 @@
+name: noodle_image
+description: All type of images in same widget
+version: 1.0.0
+homepage: https://github.com/Noodle-Cx/noodle_image
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
