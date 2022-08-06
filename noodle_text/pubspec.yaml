@@ -1,7 +1,11 @@
 name: noodle_text
 description: Simple alternative to RichText
-version: 1.0.1+1
+version: 1.0.1+2
 homepage: https://github.com/Noodle-Cx/noodle_packages/tree/master/noodle_text
+repository: https://github.com/Noodle-Cx/noodle_packages/tree/master/noodle_text
+
+false_secrets:
+  - example/**
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
