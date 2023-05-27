@@ -6,10 +6,12 @@ version: 1.0.0+1
 environment:
   sdk: ">=2.16.2 <3.0.0"
 
+dependency_overrides:
+  meta: ^1.8.0
+
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
   noodle_image:
     path: ../
 

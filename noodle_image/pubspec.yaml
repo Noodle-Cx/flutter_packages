@@ -1,6 +1,6 @@
 name: noodle_image
 description: All type of images in same widget
-version: 1.0.1+3
+version: 1.0.2
 homepage: https://github.com/Noodle-Cx/flutter_packages/tree/master/noodle_image
 repository: https://github.com/Noodle-Cx/flutter_packages/tree/master/noodle_image
 
@@ -11,10 +11,13 @@ environment:
   sdk: ">=2.16.2 <3.0.0"
   flutter: ">=1.17.0"
 
+dependency_overrides:
+  meta: ^1.8.0
+
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^1.0.3
+  flutter_svg: ^2.0.6
 
 dev_dependencies:
   flutter_test:

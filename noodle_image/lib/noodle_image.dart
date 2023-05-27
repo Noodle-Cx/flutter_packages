@@ -104,7 +104,8 @@ class NoodleImage extends StatelessWidget {
         image,
         height: height,
         width: width,
-        color: color,
+        colorFilter:
+            color != null ? ColorFilter.mode(color!, BlendMode.srcIn) : null,
         semanticsLabel: semanticLabel,
         fit: fit,
         alignment: alignment,
@@ -115,7 +116,8 @@ class NoodleImage extends StatelessWidget {
         image,
         height: height,
         width: width,
-        color: color,
+        colorFilter:
+            color != null ? ColorFilter.mode(color!, BlendMode.srcIn) : null,
         semanticsLabel: semanticLabel,
         fit: fit,
         alignment: alignment,
